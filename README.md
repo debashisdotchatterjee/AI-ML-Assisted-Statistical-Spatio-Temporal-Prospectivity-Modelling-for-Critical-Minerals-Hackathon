@@ -1,4 +1,9 @@
 # AI-ML-Assisted-Statistical-Spatio-Temporal-Prospectivity-Modelling-for-Critical-Minerals-Hackathon
+(Project Team Members: (1) * Dr Debashis Chatterjee (Assistant Professor, Department of Statistics, Visva Bharati University),  **Team Correspondence
+                       (2)   Mr. Sumit Kumar (Geological Survey of India, Kolkata Center)
+                       (3)  Dr Amlan Banerjee, Geological Studies Unit, Indian Statistical Institute
+
+Description: 
 AI/ML-Assisted Statistical Spatio–Temporal Prospectivity Modelling for Critical Minerals with Application to Karnataka &amp; Andhra Pradesh Zone Hackathon 2025 Proposal
 
 This document outlines a two-part approach for discovering concealed and deep-seated ore bodies in a 39,000 km$^2$ corridor across Karnataka and Andhra Pradesh, India, focusing on REE, Ni–PGE, Cu, and associated commodities.
